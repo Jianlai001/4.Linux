@@ -39,3 +39,12 @@
 csgo|38|1
 dota2|999|2
 lol|123|3
+
+```c
+	#include<stdio.h>
+	int main()
+	{
+		printf("test code\n");
+		return 0;
+	}
+```
